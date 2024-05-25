@@ -1,0 +1,13 @@
+total 16
+drwx------. 6 ec2-user ec2-user 16384 May 12 06:06 ec2-user
+drwx------. 2 newuser  newuser     62 May 10 09:11 newuser
+appendingll/home/ec2-user
+appending_attempt 2
+appending_attempt 2
+total 12
+-rwxr-xr-x. 1 ec2-user ec2-user 520 May 12 06:00 copiedfile
+drwxr-xr-x. 3 ec2-user ec2-user  36 May 11 12:21 folder_a
+-rw-r--r--. 1 ec2-user ec2-user 194 May 12 06:13 myfile.txt
+drwxrwxr-x. 2 ec2-user ec2-user   6 May 11 15:56 newdir
+-rwxrwxrwx. 1 ec2-user ec2-user 121 May 12 04:54 newfile
+drwxr-xr-x. 3 ec2-user ec2-user  61 May  9 05:31 repo2

@@ -1,0 +1,13 @@
+This is new file .
+Some random information is typed
+File edited in Nano
+
+File opened and attempted to edit in VI Editor
+
+Attempted to save and exit using ":x!"
+
+Due to the call I receive in my  mobile phone aws got disconnected. so started to attempt the ":x!" again
+
+Trying find and replace. Knew ":%s/text_to_be_searched/text_to_be_replaced/g" will replace the text in all places . Now  Want to type mobile phone again to check if it can be replaced by "mobile Phone" in which place without adding the "g" in syntax
+
+
